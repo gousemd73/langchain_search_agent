@@ -1,5 +1,4 @@
-# WTC Final Query Application
-
+# Duckduckgo Search Agent
 This is a capstone project that queries the teams playing in the World Test Championship (WTC) final using a ReAct agent powered by LangChain and Grok.
 
 ## Project Structure
