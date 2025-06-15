@@ -23,7 +23,6 @@ This is a capstone project that queries the teams playing in the World Test Cham
 4. Run the application: `python main.py`.
 
 ## Usage
-The application queries the teams playing in the WTC final for the current day and outputs their names.
-
+The application queries user input using duckduckgo search and returns response.
 ## License
 MIT License
